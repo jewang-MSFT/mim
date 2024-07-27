@@ -1,0 +1,10 @@
+{
+    "instanceUrl":  "https://powerbi.visualstudio.com",
+    "TSADocumentation": "https://aka.ms/OBTSA",
+    "projectName":  "Developer",
+    "areaPath":  "Developer\\<Example>\\<Team>\\<AreaPath>",
+    "notificationAliases": ["akushwaha"],
+    "ppe":  "false",
+    "template":  "TFSMSAzure",
+    "codebaseName":  "TFSMSAzure_jewang"
+}
